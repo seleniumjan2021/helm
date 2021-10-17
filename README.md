@@ -72,4 +72,4 @@ You can reach the Helm community and developers via the following channels:
 
 Participation in the Helm community is governed by the [Code of Conduct](code-of-conduct.md).
 
-new line added
+New Line is added
