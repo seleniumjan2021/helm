@@ -6,7 +6,7 @@
 # Organizations Using Helm
 
 - [Blood Orange](https://bloodorange.io)
-- [IBM](https://www.ibm.com, new)
+- [IBM](https://www.ibm.com, new url added )
 - [Microsoft](https://microsoft.com)
 - [Qovery](https://www.qovery.com/)
 - [Samsung SDS](https://www.samsungsds.com/)
