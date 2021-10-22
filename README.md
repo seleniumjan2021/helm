@@ -32,6 +32,7 @@ Think of it like apt/yum/homebrew for Kubernetes.
 
 
 Binary downloads of the Helm client can be found on [the Releases page](https://github.com/helm/helm/releases/latest).
+adding a new line..
 
 Unpack the `helm` binary and add it to your PATH and you are good to go!
 
@@ -71,4 +72,3 @@ You can reach the Helm community and developers via the following channels:
 ### Code of conduct
 
 Participation in the Helm community is governed by the [Code of Conduct](code-of-conduct.md).
-hi
